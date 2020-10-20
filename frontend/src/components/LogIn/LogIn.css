@@ -1,0 +1,14 @@
+.LogIn {
+  display: grid;
+  /* grid-template-columns: 1fr, 1fr; */
+
+  justify-content: center;
+  justify-self: center;
+}
+
+/* @media screen and (min-width: 820px) { */
+/*   .LogIn { */
+/*     grid-template-columns: 1fr 1fr; */
+/*     max-width: 800px; */
+/*   } */
+/* } */

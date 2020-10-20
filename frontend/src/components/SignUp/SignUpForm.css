@@ -1,0 +1,26 @@
+input, button {
+  box-sizing: border-box;
+  padding: 20px;
+  border: 0px;
+  width: 100%;
+}
+
+input {
+  margin: 3px 0px;
+}
+
+button {
+  margin: 10px 0px;
+  color: white;
+  background: red;
+}
+
+.form-title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.log-in-alt {
+  text-align: center;
+}

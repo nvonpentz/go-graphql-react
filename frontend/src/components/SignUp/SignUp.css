@@ -1,0 +1,15 @@
+.SignUp {
+  display: grid;
+  /* grid-template-columns: 1fr, 1fr; */
+
+  justify-content: center;
+  justify-self: center;
+  max-width: 300px;
+}
+
+@media screen and (min-width: 820px) {
+  .SignUp {
+    grid-template-columns: 1fr 1fr;
+    max-width: 800px;
+  }
+}

@@ -1,0 +1,31 @@
+header {
+  height: 50px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: black;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+nav ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-item {
+  padding: 0px 15px 0px 15px;
+}
+
+nav ul li {
+  padding: 0px 0px 0px 10px;
+}
