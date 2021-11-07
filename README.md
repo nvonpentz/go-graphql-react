@@ -1,6 +1,6 @@
 # go-graphql-react
 
-A template web app with a React / TypeScript frontend and a Go GraphQL backend that uses [SQLBoiler](https://github.com/volatiletech/sqlboiler) alongside [gqlgen](https://github.com/99designs/gqlgen) for a fast, schema driven development style.
+A template web app with a React / TypeScript frontend and a Go GraphQL backend that uses [SQLBoiler](https://github.com/volatiletech/sqlboiler) alongside [gqlgen](https://github.com/99designs/gqlgen) for a fast, database schema driven development style.
 
 ## Stack
 * Golang backend server
